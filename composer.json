@@ -1,0 +1,7 @@
+{
+    "name": "linice/pagination",
+    "description": "Php pagination, visited by direct view page(not ajax), and use bootstrap css.",
+    "require": {
+        "php": ">=5.6.0"
+    }
+}
