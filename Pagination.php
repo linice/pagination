@@ -43,6 +43,8 @@
  */
 namespace Linice\Pagination;
 
+use Exception;
+
 
 class Pagination {
 	/**
